@@ -2,6 +2,13 @@
 
 This repo is for collecting issues and feature requests for https://ellie-app.com
 
+## Rules
+
+- Please note that our [code of conduct](CODE_OF_CONDUCT.md) is always in effect and will be enforced.
+- Take a look at the guidelines below for what we need from you to reach the best possible resolution.
+- If we need more information we'll let you know with a comment and a label. We close issues without enough information after 1 week.
+- If we decline a feature request or close a bug, it won't be useful to argue that it be reopened. Our time is just as valuable as yours, and we need to prioritize!
+
 ## Submitting an Bug Report
 
 Great bug reports include as much information as possible to help reproduce the problem. 
@@ -38,9 +45,3 @@ that would be needed to accomplish the goal.
 
 As a final word about feature requests, small features are more likely to be released
 quickly whereas larger features will tend to be organized into broader narratives.
-
-## Rules
-
-- Please note that our [code of conduct](CODE_OF_CONDUCT.md) is always in effect and will be enforced.
-- If we need more information we'll let you know with a comment and a label. We close issues without enough information after 1 week.
-- If we decline a feature request or close a bug, it won't be useful to argue that it be reopened. Our time is just as valuable as yours, and we need to prioritize!
