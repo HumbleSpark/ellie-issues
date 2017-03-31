@@ -6,6 +6,7 @@ This repo is for collecting issues and feature requests for https://ellie-app.co
 
 - Please note that our [code of conduct](CODE_OF_CONDUCT.md) is always in effect and will be enforced.
 - Take a look at the guidelines below for what we need from you to reach the best possible resolution.
+- Show support for existing issues and feature requests using the :+1: reaction button.
 - If we need more information we'll let you know with a comment and a label. We close issues without enough information after 1 week.
 - If we decline a feature request or close a bug, it won't be useful to argue that it be reopened. Our time is just as valuable as yours, and we need to prioritize!
 
